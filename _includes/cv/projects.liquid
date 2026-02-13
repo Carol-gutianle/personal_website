@@ -7,10 +7,28 @@
     <li class="list-group-item">
       {% if entry.url %}
         <h6 class="title font-weight-bold">
-          <a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a>
+          <a href="{{ entry.url }}" target="_blank">
+            {% if entry.icon %}
+              <img
+                src="{{ entry.icon }}"
+                alt="{{ entry.name }} icon"
+                style="width: 18px; height: 18px; border-radius: 4px; margin-right: 8px; vertical-align: text-bottom;"
+              >
+            {% endif %}
+            {{ entry.name }}
+          </a>
         </h6>
       {% else %}
-        <h6 class="title font-weight-bold">{{ entry.name }}</h6>
+        <h6 class="title font-weight-bold">
+          {% if entry.icon %}
+            <img
+              src="{{ entry.icon }}"
+              alt="{{ entry.name }} icon"
+              style="width: 18px; height: 18px; border-radius: 4px; margin-right: 8px; vertical-align: text-bottom;"
+            >
+          {% endif %}
+          {{ entry.name }}
+        </h6>
       {% endif %}
 
       {% if entry.summary %}

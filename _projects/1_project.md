@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Safework-R1
+description: A cutting-edge multimodal reasoning model demonstrating the coevolution of safety and general intelligence under the guiding principle of the AI-45° Law.
+img: assets/img/safework_r1.png
 importance: 1
 category: work
 related_publications: true

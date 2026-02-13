@@ -61,6 +61,49 @@
           }
         }
 
+        abbr.venue-level-badge {
+          min-height: 2rem;
+          padding: 0.45rem 0.6rem;
+          font-size: 0.95rem;
+          font-weight: 700;
+          line-height: 1.15;
+          color: #fff !important;
+
+          a {
+            color: #fff !important;
+            font-weight: 700;
+          }
+        }
+        .scholar-below-badge {
+          display: inline-flex;
+          align-items: center;
+          margin-top: 0.15rem;
+          text-decoration: none !important;
+        }
+        .scholar-label {
+          background: #f1f3f4;
+          color: #4a4a4a !important;
+          border: 1px solid #d8d8d8;
+          border-right: none;
+          border-radius: 3px 0 0 3px;
+          padding: 1px 6px;
+          font-size: 0.78rem;
+          line-height: 1.2;
+          i {
+            color: #4285f4;
+            margin-right: 4px;
+          }
+        }
+        .scholar-count {
+          background: #4285f4;
+          color: #fff !important;
+          border-radius: 0 3px 3px 0;
+          padding: 1px 6px;
+          font-size: 0.78rem;
+          line-height: 1.2;
+          font-weight: 700;
+        }
+
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
@@ -113,6 +156,37 @@
             border-color: var(--global-theme-color);
           }
         }
+        a.btn.btn-abs,
+        a.btn.btn-bib,
+        a.btn.btn-review,
+        a.btn.btn-pdf,
+        a.btn.btn-web,
+        a.btn.btn-github,
+        a.btn.btn-dataset,
+        a.btn.btn-model {
+          color: #fff !important;
+          border: none !important;
+          font-weight: 700;
+          letter-spacing: 0.01em;
+        }
+        a.btn.btn-abs {
+          background-color: #e7ad46 !important;
+        }
+        a.btn.btn-bib {
+          background-color: #64b65f !important;
+        }
+        a.btn.btn-review {
+          background-color: #63b668 !important;
+        }
+        a.btn.btn-pdf {
+          background-color: #4c89c7 !important;
+        }
+        a.btn.btn-web,
+        a.btn.btn-github,
+        a.btn.btn-dataset,
+        a.btn.btn-model {
+          background-color: #d9534f !important;
+        }
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
@@ -120,6 +194,35 @@
 
       .badges {
         padding-bottom: 0.5rem;
+        .scholar-mini {
+          display: inline-flex;
+          align-items: center;
+          text-decoration: none !important;
+          margin-right: 0.4rem;
+        }
+        .scholar-label {
+          background: #f1f3f4;
+          color: #4a4a4a !important;
+          border: 1px solid #d8d8d8;
+          border-right: none;
+          border-radius: 3px 0 0 3px;
+          padding: 1px 6px;
+          font-size: 0.78rem;
+          line-height: 1.2;
+          i {
+            color: #4285f4;
+            margin-right: 4px;
+          }
+        }
+        .scholar-count {
+          background: #4285f4;
+          color: #fff !important;
+          border-radius: 0 3px 3px 0;
+          padding: 1px 6px;
+          font-size: 0.78rem;
+          line-height: 1.2;
+          font-weight: 700;
+        }
         span {
           display: inline-block;
           color: v.$black-color;
