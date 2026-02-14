@@ -51,6 +51,27 @@ My long-term vision is to solve real problems through research that is minimal i
             >Data Contamination</a
           >
         </li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:_FxGoFyzp5QC"
+            target="_blank"
+            >MEOW</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:QIV2ME_5wuYC"
+            target="_blank"
+            >MorphMark</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:eQOLeE2rZwMC"
+            target="_blank"
+            >Invisible Entropy</a
+          >
+        </li>
       </ul>
     </div>
   </details>
@@ -62,6 +83,13 @@ My long-term vision is to solve real problems through research that is minimal i
       <span class="safety-map-work-label">Works</span>
       <ul class="safety-map-work-list">
         <li><a href="https://github.com/Carol-gutianle/LatentSafety" target="_blank">LatentSafety</a></li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&cstart=20&pagesize=80&citation_for_view=wlW9_7QAAAAJ:9ZlFYXVOiuMC"
+            target="_blank"
+            >FairTAG</a
+          >
+        </li>
       </ul>
     </div>
   </details>
@@ -75,6 +103,13 @@ My long-term vision is to solve real problems through research that is minimal i
         <li><a href="https://arxiv.org/pdf/2406.07594" target="_blank">MLLMGuard</a></li>
         <li><a href="https://github.com/OpenLMLab/UniMod" target="_blank">UniMod</a></li>
         <li><a href="https://arxiv.org/abs/2507.18576" target="_blank">SafeWork-R1</a></li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&pagesize=80&citation_for_view=wlW9_7QAAAAJ:2osOgNQ5qMEC"
+            target="_blank"
+            >Esc-Eval</a
+          >
+        </li>
       </ul>
     </div>
   </details>
@@ -85,6 +120,13 @@ My long-term vision is to solve real problems through research that is minimal i
     <div class="safety-map-works">
       <span class="safety-map-work-label">Works</span>
       <ul class="safety-map-work-list">
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:YOwf2qJgpHMC"
+            target="_blank"
+            >OpenRT</a
+          >
+        </li>
         <li><span class="safety-map-pill">Ongoing</span></li>
       </ul>
     </div>
