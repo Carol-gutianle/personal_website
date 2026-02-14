@@ -58,20 +58,6 @@ My long-term vision is to solve real problems through research that is minimal i
             >MEOW</a
           >
         </li>
-        <li>
-          <a
-            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:QIV2ME_5wuYC"
-            target="_blank"
-            >MorphMark</a
-          >
-        </li>
-        <li>
-          <a
-            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:eQOLeE2rZwMC"
-            target="_blank"
-            >Invisible Entropy</a
-          >
-        </li>
       </ul>
     </div>
   </details>
@@ -101,13 +87,21 @@ My long-term vision is to solve real problems through research that is minimal i
       <span class="safety-map-work-label">Works</span>
       <ul class="safety-map-work-list">
         <li><a href="https://arxiv.org/pdf/2406.07594" target="_blank">MLLMGuard</a></li>
-        <li><a href="https://github.com/OpenLMLab/UniMod" target="_blank">UniMod</a></li>
+        <li><a href="https://github.com/Carol-gutianle/UniMod" target="_blank">UniMod</a></li>
         <li><a href="https://arxiv.org/abs/2507.18576" target="_blank">SafeWork-R1</a></li>
+        <li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:UeHWp8X0CEIC" target="_blank">HoneypotNet</a></li>
         <li>
           <a
             href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&pagesize=80&citation_for_view=wlW9_7QAAAAJ:2osOgNQ5qMEC"
             target="_blank"
             >Esc-Eval</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:5nxA0vEk-isC"
+            target="_blank"
+            >LinguaSafe</a
           >
         </li>
       </ul>
@@ -125,6 +119,20 @@ My long-term vision is to solve real problems through research that is minimal i
             href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:YOwf2qJgpHMC"
             target="_blank"
             >OpenRT</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:QIV2ME_5wuYC"
+            target="_blank"
+            >MorphMark</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:eQOLeE2rZwMC"
+            target="_blank"
+            >Invisible Entropy</a
           >
         </li>
         <li><span class="safety-map-pill">Ongoing</span></li>

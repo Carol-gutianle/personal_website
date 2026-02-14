@@ -1,0 +1,9 @@
+<div class="bgm-player" aria-label="Background music player">
+  <button id="bgm-toggle" class="bgm-toggle" type="button" aria-pressed="false" aria-label="Play background music">
+    <span class="bgm-icon">♪</span>
+    <span class="bgm-label">Play BGM</span>
+  </button>
+  <audio id="bgm-audio" preload="none" loop>
+    <source src="{{ '/assets/audio/canon-in-d-pachelbel.mp3' | relative_url }}" type="audio/mpeg">
+  </audio>
+</div>
