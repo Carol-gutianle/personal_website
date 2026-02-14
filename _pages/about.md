@@ -34,3 +34,59 @@ My research focuses on the safety, alignment, and interpretability of large (mul
 
 My long-term vision is to solve real problems through research that is minimal in design, grounded in theory, and genuinely useful in practice.
 </div>
+
+<section class="safety-map" aria-label="Safety Research Map">
+  <div class="safety-map-title">My Safety Stack</div>
+
+  <details class="safety-map-item content" open>
+    <summary>Layer 1 — Data Safety</summary>
+    <p class="safety-map-desc">Safety at the training distribution level.</p>
+    <div class="safety-map-works">
+      <span class="safety-map-work-label">Works</span>
+      <ul class="safety-map-work-list">
+        <li>
+          <a
+            href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:kNdYIx-mwKoC"
+            target="_blank"
+            >Data Contamination</a
+          >
+        </li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="safety-map-item compliance">
+    <summary>Layer 2 — Representation Safety</summary>
+    <p class="safety-map-desc">Safety encoded in internal activations and geometry.</p>
+    <div class="safety-map-works">
+      <span class="safety-map-work-label">Works</span>
+      <ul class="safety-map-work-list">
+        <li><a href="https://github.com/Carol-gutianle/LatentSafety" target="_blank">LatentSafety</a></li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="safety-map-item structural">
+    <summary>Layer 3 — Behavioral Alignment</summary>
+    <p class="safety-map-desc">Observable model behavior under safety policies.</p>
+    <div class="safety-map-works">
+      <span class="safety-map-work-label">Works</span>
+      <ul class="safety-map-work-list">
+        <li><a href="https://arxiv.org/pdf/2406.07594" target="_blank">MLLMGuard</a></li>
+        <li><a href="https://github.com/OpenLMLab/UniMod" target="_blank">UniMod</a></li>
+        <li><a href="https://arxiv.org/abs/2507.18576" target="_blank">SafeWork-R1</a></li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="safety-map-item infra">
+    <summary>Layer 4 — System &amp; Agent Safety</summary>
+    <p class="safety-map-desc">Safety in tool use, environment interaction, and deployment constraints.</p>
+    <div class="safety-map-works">
+      <span class="safety-map-work-label">Works</span>
+      <ul class="safety-map-work-list">
+        <li><span class="safety-map-pill">Ongoing</span></li>
+      </ul>
+    </div>
+  </details>
+</section>

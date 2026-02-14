@@ -61,3 +61,136 @@ body.sticky-bottom-footer {
 .about-intro p:first-child {
   margin-top: 0;
 }
+
+.safety-map {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem;
+  width: 100%;
+  max-width: 560px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.66), rgba(255, 255, 255, 0.3));
+}
+
+.safety-map-title {
+  display: inline-block;
+  margin-bottom: 0.9rem;
+  padding: 0.5rem 0.85rem;
+  border: 2px solid #1d2d7a;
+  border-radius: 10px;
+  color: #1d2d7a;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.safety-map-item {
+  margin: 0.55rem 0;
+  border-radius: 10px;
+  max-width: 540px;
+}
+
+.safety-map-item > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.62rem 0.95rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.safety-map-item > summary::-webkit-details-marker {
+  display: none;
+}
+
+.safety-map-item.content > summary,
+.safety-map-item.infra > summary {
+  background: #f3c74f;
+  color: #2e2507;
+}
+
+.safety-map-item.compliance > summary {
+  background: #e56e57;
+  color: #fff;
+}
+
+.safety-map-item.structural > summary {
+  background: #2e4b9c;
+  color: #fff;
+}
+
+.safety-map-works {
+  padding: 0.45rem 0.1rem 0.3rem;
+}
+
+.safety-map-desc {
+  margin: 0.6rem 0.15rem 0.2rem;
+  color: var(--global-text-color);
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+
+.safety-map-work-label {
+  display: block;
+  margin: 0 0.15rem 0.35rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
+.safety-map-work-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.safety-map-work-list li {
+  margin: 0;
+}
+
+.safety-map-works a {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1.5px solid #d2a638;
+  color: #4a3806;
+  background: #fffaf0;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.safety-map-pill {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1.5px solid #d2a638;
+  color: #4a3806;
+  background: #fffaf0;
+  font-weight: 600;
+}
+
+.safety-map-item.compliance .safety-map-works a {
+  border-color: #e56e57;
+  color: #8e2f1d;
+  background: #fff4f1;
+}
+
+.safety-map-item.structural .safety-map-works a {
+  border-color: #2e4b9c;
+  color: #1c3272;
+  background: #f5f8ff;
+}
+
+@media (max-width: 767px) {
+  .safety-map {
+    padding: 0.8rem;
+  }
+
+  .safety-map-item > summary {
+    font-size: 0.95rem;
+  }
+}

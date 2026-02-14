@@ -270,9 +270,7 @@
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
-      {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0 btn-abs" role="button">ABS</a>
-      {% endif %}
+      <a class="abstract btn btn-sm z-depth-0 btn-abs" role="button">ABS</a>
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -425,12 +423,16 @@
       </div>
     {% endif %}
 
-    {% if entry.abstract %}
-      <!-- Hidden abstract block -->
-      <div class="abstract hidden">
-        <p>{{ entry.abstract }}</p>
-      </div>
-    {% endif %}
+    <!-- Hidden abstract block -->
+    <div class="abstract hidden">
+      <p>
+        {% if entry.abstract %}
+          {{ entry.abstract }}
+        {% else %}
+          Abstract not provided yet.
+        {% endif %}
+      </p>
+    </div>
 
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->

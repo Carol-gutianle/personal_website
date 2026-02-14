@@ -7,6 +7,7 @@
   tag       = {NeurIPS},
   level     = {A},
   selected  = {true},
+  abstract  = {We introduce MLLMGuard, a multi-dimensional safety evaluation suite for multimodal large language models. The framework covers diverse risk categories with bilingual data, standardized inference tooling, and both manual and automatic evaluation protocols. We further train a lightweight evaluator (GuardRank) on human annotations to enable scalable and reproducible scoring. Experiments on closed-source and open-source MLLMs show substantial safety differences across dimensions and reveal gaps not captured by existing single-axis benchmarks.},
   pdf       = {https://arxiv.org/pdf/2406.07594},
   review    = {https://openreview.net/forum?id=k4tuZmvSnl&referrer=%5Bthe%20profile%20of%20Yujiu%20Yang%5D(%2Fprofile%3Fid%3D~Yujiu_Yang2)},
   dataset   = {https://huggingface.co/datasets/Carol0110/MLLMGuard},
@@ -36,6 +37,7 @@
     scholar_url = "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:_FxGoFyzp5QC",
     google_scholar_id = {_FxGoFyzp5QC},
     pdf = "https://aclanthology.org/2025.findings-acl.535.pdf",
+    github = "https://github.com/Carol-gutianle/MEOW",
     pages = "10261--10279",
     ISBN = "979-8-89176-256-5",
     tag       = {ACL\n(Findings)},
@@ -48,6 +50,7 @@
   author             = {Wang, Zongqi and Gu, Tianle and Wu, Baoyuan and Yang, Yujiu},
   journal            = {arXiv preprint arXiv:2505.11541},
   year               = {2025},
+  abstract           = {This paper studies the effectiveness-quality trade-off in red-green list watermarking for LLM text generation. It formulates watermarking as a multi-objective optimization problem and identifies a key factor behind this dilemma. Based on the analysis, MorphMark is proposed as an adaptive method that dynamically adjusts watermark strength instead of using a fixed hyperparameter. The method is model-agnostic and model-free, making deployment easier across rapidly evolving models. Experiments show improved balance between watermark detectability and text quality, while also providing strong efficiency and flexibility.},
   scholar_url        = {https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:QIV2ME_5wuYC},
   google_scholar_id  = {QIV2ME_5wuYC},
   tag                = {ACL},
@@ -65,6 +68,7 @@
   google_scholar_id = {eQOLeE2rZwMC},
   level   = {B},
   tag     = {EMNLP\n(Oral)},
+  abstract = {We present Invisible Entropy, a safe and efficient low-entropy watermarking paradigm for large language models. The method improves robustness and detectability while preserving text quality under practical decoding settings. It is designed to reduce deployment overhead and maintain compatibility with modern LLM generation pipelines. Extensive experiments show favorable trade-offs against prior watermarking methods across quality, security, and efficiency metrics.},
   selected = {true}
 }
 
@@ -78,9 +82,9 @@
   year      = {2025},
   scholar_url = {https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:UeHWp8X0CEIC},
   google_scholar_id = {UeHWp8X0CEIC},
+  abstract = {We study model extraction under adversarial settings and propose HoneypotNet, a backdoor-based attack strategy against extraction pipelines. The method injects stealthy triggers that remain latent during normal usage but induce targeted behavior in extracted surrogate models. We analyze transferability and attack success under different query budgets and defense settings. Results show that extraction systems can inherit hidden vulnerabilities, motivating stronger auditing and robust defense mechanisms.},
   level     = {A},
-  tag       = {AAAI},
-  selected  = {true}
+  tag       = {AAAI}
 }
 
 @article{luo2024chain,
@@ -90,6 +94,27 @@
   year={2024},
   scholar_url={https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:Wp0gIr-vW9MC},
   google_scholar_id={Wp0gIr-vW9MC},
+  abstract={We propose Chain of History, an LLM-based framework for temporal knowledge graph completion that jointly models historical evolution and future forecasting. The approach leverages sequential temporal context to improve reasoning over dynamic entities and relations. It supports both interpolation and extrapolation settings and integrates naturally with large language model priors. Experiments on benchmark temporal KGs demonstrate competitive or superior performance with strong generalization across time horizons.},
   tag={arXiv},
   level={N},
+}
+
+@inproceedings{chen2025benchmarking,
+  title             = {Benchmarking large language models under data contamination: A survey from static to dynamic evaluation},
+  author            = {Chen, Simin and Chen, Yiming and Li, Zexin and Jiang, Yifan and Wan, Zhongwei and He, Yixin and Ran, Dezhi and Gu, Tianle and Li, Haizhou and Xie, Tao and others},
+  booktitle         = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages             = {10091--10109},
+  year              = {2025},
+  scholar_url       = {https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wlW9_7QAAAAJ&citation_for_view=wlW9_7QAAAAJ:kNdYIx-mwKoC},
+  google_scholar_id = {kNdYIx-mwKoC},
+  tag               = {EMNLP},
+  level             = {B},
+  selected          = {true}
+}
+
+@article{shanghai2025lab,
+  title   = {Lab. Safework-r1: Coevolving safety and intelligence under the ai-45◦ law},
+  author  = {Shanghai, AI},
+  journal = {arXiv preprint arXiv:2507.18576},
+  year    = {2025}
 }
