@@ -1,44 +1,48 @@
 metadata:
-  last_updated: '2026-02-12'
+  last_updated: '2026-02-17'
 papers:
+  wlW9_7QAAAAJ:-f6ydRqryjwC:
+    citations: 3
+    title: 'Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking'
+    year: '2025'
   wlW9_7QAAAAJ:0EnyYjriUFMC:
     citations: 8
     title: 'Collie: Collaborative training of large language models in an efficient way'
     year: '2023'
   wlW9_7QAAAAJ:2osOgNQ5qMEC:
-    citations: 24
+    citations: 27
     title: 'ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models'
     year: '2024'
   wlW9_7QAAAAJ:5nxA0vEk-isC:
-    citations: 5
+    citations: 6
     title: 'Linguasafe: A comprehensive multilingual safety benchmark for large language models'
     year: '2025'
   wlW9_7QAAAAJ:8k81kl-MbHgC:
-    citations: 4
+    citations: 5
     title: 'Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports'
     year: '2025'
   wlW9_7QAAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: Fair Text-Attributed Graph Representation Learning
     year: '2025'
-  wlW9_7QAAAAJ:L8Ckcad2t8MC:
+  wlW9_7QAAAAJ:HDshCWvjkbEC:
     citations: 1
-    title: 'From Rankings to Insights: Evaluation Should Shift Focus from Leaderboard to Feedback'
+    title: 'SCAN: Structured Capability Assessment and Navigation for LLMs'
     year: '2025'
+  wlW9_7QAAAAJ:IWHjjKOFINEC:
+    citations: 66
+    title: 'Mllmguard: A multi-dimensional safety evaluation suite for multimodal large language models'
+    year: '2024'
   wlW9_7QAAAAJ:LkGwnXOMwfcC:
     citations: 11
     title: A cognitive writing perspective for constrained long-form text generation
     year: '2025'
   wlW9_7QAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 2
     title: 'S2j: Bridging the gap between solving and judging ability in generative reward models'
     year: '2025'
-  wlW9_7QAAAAJ:QIV2ME_5wuYC:
-    citations: 13
-    title: 'Morphmark: Flexible adaptive watermarking for large language models'
-    year: '2025'
   wlW9_7QAAAAJ:ULOm3_A8WrAC:
-    citations: 73
+    citations: 75
     title: "Overview of the \u201CVoight-Kampff\u201D generative AI authorship verification task at PAN and ELOQUENT 2025"
     year: '2025'
   wlW9_7QAAAAJ:UeHWp8X0CEIC:
@@ -46,42 +50,38 @@ papers:
     title: 'HoneypotNet: Backdoor Attacks Against Model Extraction'
     year: '2025'
   wlW9_7QAAAAJ:WF5omc3nYNoC:
-    citations: 3
+    citations: 4
     title: 'Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?'
     year: '2025'
   wlW9_7QAAAAJ:Wp0gIr-vW9MC:
-    citations: 56
+    citations: 58
     title: 'Chain of history: Learning and forecasting with llms for temporal knowledge graph completion'
     year: '2024'
   wlW9_7QAAAAJ:YOwf2qJgpHMC:
     citations: 1
     title: 'OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs'
     year: '2026'
-  wlW9_7QAAAAJ:ZeXyd9-uunAC:
-    citations: 62
-    title: 'Mllmguard: A multi-dimensional safety evaluation suite for multimodal large language models'
-    year: '2024'
   wlW9_7QAAAAJ:_FxGoFyzp5QC:
-    citations: 13
+    citations: 17
     title: 'From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs'
     year: '2025'
-  wlW9_7QAAAAJ:eQOLeE2rZwMC:
-    citations: 2
-    title: 'Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking'
+  wlW9_7QAAAAJ:hC7cP41nSMkC:
+    citations: 4
+    title: Probing the robustness of large language models safety to latent perturbations
     year: '2025'
   wlW9_7QAAAAJ:hqOjcs7Dif8C:
     citations: 2
     title: 'SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law'
     year: '2025'
   wlW9_7QAAAAJ:kNdYIx-mwKoC:
-    citations: 23
+    citations: 25
     title: 'Benchmarking large language models under data contamination: A survey from static to dynamic evaluation'
+    year: '2025'
+  wlW9_7QAAAAJ:mB3voiENLucC:
+    citations: 16
+    title: 'Morphmark: Flexible adaptive watermarking for large language models'
     year: '2025'
   wlW9_7QAAAAJ:qxL8FJ1GzNcC:
     citations: 0
     title: 'From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation'
     year: '2026'
-  wlW9_7QAAAAJ:ufrVoPGSRksC:
-    citations: 3
-    title: Probing the Robustness of Large Language Models Safety to Latent Perturbations
-    year: '2025'
