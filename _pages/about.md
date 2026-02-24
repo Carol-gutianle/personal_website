@@ -6,7 +6,7 @@ subtitle: Graduate Student @ <a href="https://iigroup.github.io/" target="_blank
 
 profile:
   align: right
-  image: profile.jpg
+  image: life.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>"理想主义者 / 一个尚未有作品的诗人"</p>
