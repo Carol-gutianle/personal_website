@@ -118,6 +118,21 @@ body.sticky-bottom-footer {
   color: #fff;
 }
 
+.mapmyvisitors {
+  width: 200px;
+  max-width: 100%;
+  margin: 1rem auto 0;
+  overflow: hidden;
+}
+
+.mapmyvisitors iframe,
+.mapmyvisitors img,
+.mapmyvisitors canvas {
+  width: 200px !important;
+  max-width: 100% !important;
+  height: 120px !important;
+}
+
 .safety-map-works {
   padding: 0.45rem 0.1rem 0.3rem;
 }
