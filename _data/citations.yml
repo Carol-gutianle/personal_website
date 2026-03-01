@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-24'
+  last_updated: '2026-03-01'
 papers:
   wlW9_7QAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: 'ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models'
     year: '2024'
   wlW9_7QAAAAJ:5nxA0vEk-isC:
-    citations: 6
+    citations: 8
     title: 'Linguasafe: A comprehensive multilingual safety benchmark for large language models'
     year: '2025'
   wlW9_7QAAAAJ:8k81kl-MbHgC:
@@ -30,11 +30,11 @@ papers:
     title: 'SCAN: Structured Capability Assessment and Navigation for LLMs'
     year: '2025'
   wlW9_7QAAAAJ:IWHjjKOFINEC:
-    citations: 66
+    citations: 67
     title: 'Mllmguard: A multi-dimensional safety evaluation suite for multimodal large language models'
     year: '2024'
   wlW9_7QAAAAJ:LkGwnXOMwfcC:
-    citations: 11
+    citations: 12
     title: A cognitive writing perspective for constrained long-form text generation
     year: '2025'
   wlW9_7QAAAAJ:MXK_kJrjxJIC:
@@ -82,10 +82,10 @@ papers:
     title: 'Benchmarking large language models under data contamination: A survey from static to dynamic evaluation'
     year: '2025'
   wlW9_7QAAAAJ:mB3voiENLucC:
-    citations: 16
+    citations: 17
     title: 'Morphmark: Flexible adaptive watermarking for large language models'
     year: '2025'
   wlW9_7QAAAAJ:qxL8FJ1GzNcC:
-    citations: 0
+    citations: 1
     title: 'From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation'
     year: '2026'
