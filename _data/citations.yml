@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-01'
+  last_updated: '2026-03-06'
 papers:
   wlW9_7QAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -14,11 +14,11 @@ papers:
     title: 'ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models'
     year: '2024'
   wlW9_7QAAAAJ:5nxA0vEk-isC:
-    citations: 8
+    citations: 9
     title: 'Linguasafe: A comprehensive multilingual safety benchmark for large language models'
     year: '2025'
   wlW9_7QAAAAJ:8k81kl-MbHgC:
-    citations: 5
+    citations: 6
     title: 'Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports'
     year: '2025'
   wlW9_7QAAAAJ:9ZlFYXVOiuMC:
@@ -58,7 +58,7 @@ papers:
     title: 'Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?'
     year: '2025'
   wlW9_7QAAAAJ:Wp0gIr-vW9MC:
-    citations: 58
+    citations: 61
     title: 'Chain of history: Learning and forecasting with llms for temporal knowledge graph completion'
     year: '2024'
   wlW9_7QAAAAJ:YOwf2qJgpHMC:
