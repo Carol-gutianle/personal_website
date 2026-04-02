@@ -1,0 +1,122 @@
+personal:
+  title: Personal Development
+  intro: Frameworks and toolkits I designed and maintain independently.
+  items:
+    - name: Boundary
+      status: Active
+      summary: A per-site Chrome extension that blocks search-box distractions, including placeholder text, suggestion dropdowns, and browser autocomplete.
+      stack:
+        - Chrome Extension
+        - JavaScript
+        - Productivity
+        - Browser UX
+      links:
+        - label: GitHub
+          url: https://github.com/Carol-gutianle/Boundary
+      highlights:
+        - Works on a per-site basis instead of forcing a global browsing rule
+        - Removes multiple layers of search-box distraction at once
+        - Keeps the browsing experience minimal and focused
+    - name: ModelReady
+      status: Active
+      summary: A tool that lets you start a local or Hugging Face model instantly and use it directly from chat through an OpenAI-compatible endpoint.
+      stack:
+        - Local LLM
+        - vLLM
+        - OpenAI-Compatible API
+        - Model Serving
+      links:
+        - label: Project Page
+          url: https://clawhub.ai/Carol-gutianle/modelready
+      highlights:
+        - Starts local or Hugging Face models without leaving the chat workflow
+        - Exposes the model through an OpenAI-compatible API endpoint
+        - Supports quick status checks, chat interaction, and server control commands
+    - name: LibreTalk
+      status: Active
+      summary: A Chrome extension that helps users speak freely while keeping their messages gentle, empathetic, and constructive through AI-generated high-EQ replies.
+      stack:
+        - Chrome Extension
+        - AI Assistant
+        - Communication
+        - UX
+      links:
+        - label: GitHub
+          url: https://github.com/Carol-gutianle/LibreTalk
+      highlights:
+        - Generates high-EQ replies based on relationship, tone, history, and intent
+        - Works as a floating assistant across websites such as WeChat Web, Slack, and Gmail
+        - Supports one-click copy for quick insertion into ongoing conversations
+
+group:
+  title: Collaborative Development
+  intro: Frameworks built with labs, research groups, or open-source collaborators.
+  items:
+    - name: CoLLiE
+      status: Active
+      summary: An efficient collaborative training framework for large language models, designed to support scalable pretraining and fine-tuning with a user-friendly workflow.
+      role: Core Contributor
+      stack:
+        - PyTorch
+        - DeepSpeed
+        - 3D Parallelism
+        - PEFT
+      links:
+        - label: GitHub
+          url: https://github.com/OpenMOSS/CoLLiE
+        - label: Paper
+          url: https://aclanthology.org/2023.emnlp-demo.48.pdf
+      highlights:
+        - Supports data, tensor, and pipeline parallelism for large-scale LLM training
+        - Integrates memory-efficient fine-tuning methods such as PEFT and LOMO
+        - Keeps a HuggingFace-like interface while simplifying distributed training setup
+    - name: ChatZoo
+      status: Active
+      summary: A lightweight local evaluation tool for large language models that supports side-by-side chatting, debugging, and response quality assessment across multiple models.
+      role: Core Contributor
+      stack:
+        - LLM Evaluation
+        - Python
+        - Local Deployment
+        - UI
+      links:
+        - label: GitHub
+          url: https://github.com/OpenLMLab/ChatZoo
+      highlights:
+        - Enables interactive comparison across multiple chat models in one interface
+        - Supports debugging, annotation, vote analysis, and session export
+        - Can be deployed locally to preserve chat data privacy
+    - name: SafeWork-R1
+      status: Active
+      summary: A multimodal safety reasoning project that advances safety and general capability together through safety-oriented reinforcement learning and verifier-guided post-training.
+      role: Core Contributor
+      stack:
+        - Multimodal
+        - Safety Alignment
+        - Reinforcement Learning
+        - Verifiers
+      links:
+        - label: Hugging Face
+          url: https://huggingface.co/AI45Research/SafeWork-R1
+        - label: Paper
+          url: https://arxiv.org/abs/2507.18576
+      highlights:
+        - Built with the SafeLadder framework for progressive safety-oriented RL post-training
+        - Develops intrinsic safety reasoning and self-reflection instead of only learning human preference signals
+        - Improves safety benchmarks strongly while preserving general multimodal capabilities
+    - name: OpenRT
+      status: Active
+      summary: An open-source red teaming framework for multimodal large language models, built for attack generation, safety evaluation, and configuration-driven experimentation.
+      role: Contributor
+      stack:
+        - Multimodal
+        - Red Teaming
+        - Safety Evaluation
+        - Python
+      links:
+        - label: GitHub
+          url: https://github.com/AI45Lab/OpenRT
+      highlights:
+        - Supports 42+ black-box and white-box attack methods for MLLMs
+        - Uses a modular plugin architecture for attacks, models, judges, and evaluators
+        - Runs reproducible experiments through YAML-based configuration files
