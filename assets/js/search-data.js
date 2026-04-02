@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Personal and collaborative open-source frameworks, toolkits, and infrastructure projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/frameworks/";
+          },
         },{id: "post-building-a-benchmark-from-scratch",
         
           title: "Building a Benchmark from Scratch",
