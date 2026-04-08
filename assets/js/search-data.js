@@ -39,16 +39,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-tada-two-of-my-papers-were-accepted-to-the-acl-2026-main-conference-scan-and-latentsafety",
+          title: ':tada: Two of my papers were accepted to the ACL 2026 Main Conference:...',
           description: "",
           section: "News",},{id: "projects-safework-r1",
           title: 'Safework-R1',
