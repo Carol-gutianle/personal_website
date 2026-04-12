@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-07'
+  last_updated: '2026-04-12'
 papers:
   wlW9_7QAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'Collie: Collaborative training of large language models in an efficient way'
     year: '2023'
   wlW9_7QAAAAJ:2osOgNQ5qMEC:
-    citations: 34
+    citations: 35
     title: 'ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models'
     year: '2024'
   wlW9_7QAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: 'Mllmguard: A multi-dimensional safety evaluation suite for multimodal large language models'
     year: '2024'
   wlW9_7QAAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 17
     title: A cognitive writing perspective for constrained long-form text generation
     year: '2025'
   wlW9_7QAAAAJ:MXK_kJrjxJIC:
@@ -78,11 +78,11 @@ papers:
     title: 'SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law'
     year: '2025'
   wlW9_7QAAAAJ:kNdYIx-mwKoC:
-    citations: 32
+    citations: 35
     title: 'Benchmarking large language models under data contamination: A survey from static to dynamic evaluation'
     year: '2025'
   wlW9_7QAAAAJ:mB3voiENLucC:
-    citations: 18
+    citations: 19
     title: 'Morphmark: Flexible adaptive watermarking for large language models'
     year: '2025'
   wlW9_7QAAAAJ:qxL8FJ1GzNcC:
