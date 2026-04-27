@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-25'
+  last_updated: '2026-04-27'
 papers:
   wlW9_7QAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -34,7 +34,7 @@ papers:
     title: 'Mllmguard: A multi-dimensional safety evaluation suite for multimodal large language models'
     year: '2024'
   wlW9_7QAAAAJ:LkGwnXOMwfcC:
-    citations: 18
+    citations: 19
     title: A cognitive writing perspective for constrained long-form text generation
     year: '2025'
   wlW9_7QAAAAJ:MXK_kJrjxJIC:
@@ -78,7 +78,7 @@ papers:
     title: 'SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law'
     year: '2025'
   wlW9_7QAAAAJ:kNdYIx-mwKoC:
-    citations: 37
+    citations: 38
     title: 'Benchmarking large language models under data contamination: A survey from static to dynamic evaluation'
     year: '2025'
   wlW9_7QAAAAJ:mB3voiENLucC:
