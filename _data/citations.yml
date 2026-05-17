@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-07'
+  last_updated: '2026-05-17'
 papers:
   wlW9_7QAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: 'Collie: Collaborative training of large language models in an efficient way'
     year: '2023'
   wlW9_7QAAAAJ:2osOgNQ5qMEC:
-    citations: 36
+    citations: 38
     title: 'ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models'
     year: '2024'
   wlW9_7QAAAAJ:5nxA0vEk-isC:
@@ -30,15 +30,15 @@ papers:
     title: 'SCAN: Structured Capability Assessment and Navigation for LLMs'
     year: '2025'
   wlW9_7QAAAAJ:IWHjjKOFINEC:
-    citations: 74
+    citations: 75
     title: 'Mllmguard: A multi-dimensional safety evaluation suite for multimodal large language models'
     year: '2024'
   wlW9_7QAAAAJ:LkGwnXOMwfcC:
-    citations: 19
+    citations: 20
     title: A cognitive writing perspective for constrained long-form text generation
     year: '2025'
   wlW9_7QAAAAJ:MXK_kJrjxJIC:
-    citations: 2
+    citations: 3
     title: 'S2j: Bridging the gap between solving and judging ability in generative reward models'
     year: '2025'
   wlW9_7QAAAAJ:R3hNpaxXUhUC:
@@ -58,11 +58,11 @@ papers:
     title: 'Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?'
     year: '2025'
   wlW9_7QAAAAJ:Wp0gIr-vW9MC:
-    citations: 66
+    citations: 67
     title: 'Chain of history: Learning and forecasting with llms for temporal knowledge graph completion'
     year: '2024'
   wlW9_7QAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 5
     title: 'OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs'
     year: '2026'
   wlW9_7QAAAAJ:_FxGoFyzp5QC:
@@ -74,15 +74,15 @@ papers:
     title: Probing the robustness of large language models safety to latent perturbations
     year: '2025'
   wlW9_7QAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 3
     title: 'SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law'
     year: '2025'
   wlW9_7QAAAAJ:kNdYIx-mwKoC:
-    citations: 39
+    citations: 43
     title: 'Benchmarking large language models under data contamination: A survey from static to dynamic evaluation'
     year: '2025'
   wlW9_7QAAAAJ:mB3voiENLucC:
-    citations: 19
+    citations: 20
     title: 'Morphmark: Flexible adaptive watermarking for large language models'
     year: '2025'
   wlW9_7QAAAAJ:qxL8FJ1GzNcC:
