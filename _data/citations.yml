@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-17'
+  last_updated: '2026-05-19'
 papers:
   wlW9_7QAAAAJ:-f6ydRqryjwC:
-    citations: 4
+    citations: 5
     title: 'Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking'
     year: '2025'
   wlW9_7QAAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: 'ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models'
     year: '2024'
   wlW9_7QAAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 11
     title: 'Linguasafe: A comprehensive multilingual safety benchmark for large language models'
     year: '2025'
   wlW9_7QAAAAJ:8k81kl-MbHgC:
@@ -78,11 +78,11 @@ papers:
     title: 'SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law'
     year: '2025'
   wlW9_7QAAAAJ:kNdYIx-mwKoC:
-    citations: 43
+    citations: 44
     title: 'Benchmarking large language models under data contamination: A survey from static to dynamic evaluation'
     year: '2025'
   wlW9_7QAAAAJ:mB3voiENLucC:
-    citations: 20
+    citations: 22
     title: 'Morphmark: Flexible adaptive watermarking for large language models'
     year: '2025'
   wlW9_7QAAAAJ:qxL8FJ1GzNcC:
